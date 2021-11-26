@@ -1,0 +1,9 @@
+{
+  "name": "s3-crud-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.897.0",
+    "serverless-iam-roles-per-function": "^3.1.0"
+  }
+}
